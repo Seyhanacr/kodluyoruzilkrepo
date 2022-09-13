@@ -3,9 +3,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 ## Installation
 Önce projeyi klonladık (buraya kendi repomuzdan aldığımız link gelecek).
-´´´
+```
 https://github.com/Seyhanacr/kodluyoruzilkrepo.git
-´´´
+```
 ---
 
 ## Usage
