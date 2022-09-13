@@ -24,7 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://github.com/Seyhanacr/kodluyoruzilkrepo/blob/main/LICENSE)
 ---
-[Patika.dev]{https://www.patika.dev/tr}
+[Patika.dev](https://www.patika.dev/tr)
 
 
 
